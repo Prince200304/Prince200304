@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Prince200304
+- 👋 Hi, I’m PRINCE RAJ
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently  pursue a B-Tech(CSE)  in GALGOTIAS UNIVERSITY
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me priceraj@gmail.com
+- 💞️ I’m looking to collaborate on WEB DEVELOPMENT
+- 📫 How to reach me priceraj@gmail.com & 6206011493
 
 
 <!---
