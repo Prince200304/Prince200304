@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently  pursue a B-Tech(CSE)  in GALGOTIAS UNIVERSITY
 - 💞️ I’m looking to collaborate on WEB DEVELOPMENT
-- 📫 How to reach me priceraj@gmail.com & 6206011493
+- 📫 How to reach me priceraj20@gmail.com & 6206011493
 
 
 <!---
